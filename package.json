@@ -1,0 +1,12 @@
+{
+  "name": "@noah/cordon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Rate limiting with token buckets and sliding windows, plus HTTP middleware that emits standard headers.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
